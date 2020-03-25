@@ -1,10 +1,8 @@
 # CI/CD - JAMStack EMF Workshop 🔥
 
-👨🏻‍💻EMF Students. This project is for you to experiment with for this workshop.
+👨🏻‍💻EMF Students. This branch is for the Actions part of the workshop to provide examples and instructions.
 
 Instructions:
-1. Fork the repo (top right)
-2. Clone your copy `git clone <your repo url>`
-3. Add a local remote to your repo so you can push updates to your github copy `git remote set-url <your repo url>` then `git push`
+1. To come soon
 
-💥Now you're ready!
+💥Your action should now be ready!
