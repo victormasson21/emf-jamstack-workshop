@@ -3,12 +3,15 @@ name: PR Checks
 on: [pull_request]
 
 jobs:
+
   run_pr_check:
     name: Running PR Checks
     runs-on: ubuntu-latest
+
     strategy:
       matrix:
         node-version: [10.x]
+
     steps:
       - name: Checkout
         uses: actions/checkout@v1
