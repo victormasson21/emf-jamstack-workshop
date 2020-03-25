@@ -20,5 +20,9 @@ jobs:
           key: ${{ runner.OS }}-npm-cache-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.OS }}-npm-cache-
+            
       - name: Install Dependencies
         run: npm install
+
+      - name: Run a one-line script
+        run: echo Hello, world!
