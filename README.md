@@ -17,4 +17,3 @@ There are a few branches for your reference and instruction use.
 - `intro`: For the introduction section of the workshop and contains readme instructions only.
 - `aws`: For the hosting section part of the work shop and contains readme instructions only.
 - `gh-actions`: For the GitHub actions section of the workshop and contains an action ref file and readme instructions.
-- `working`: For the completed version of the workshop, for your reference
