@@ -2,7 +2,4 @@
 
 👨🏻‍💻EMF Students. This branch is for the Actions part of the workshop to provide examples and instructions.
 
-Instructions:
-1. To come soon
-
-💥Your action should now be ready!
+Complete working workflow example can be found in `.github/workflows/ci.yml`
