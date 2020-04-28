@@ -9,6 +9,7 @@ const Index = () => {
       </p>
       <p>Use this project for the workshop</p>
       <p>I've just made a change</p>
+      <p>Testing github actions ⚘</p>
     </>
   );
 };
