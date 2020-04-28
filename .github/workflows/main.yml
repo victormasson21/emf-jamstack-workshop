@@ -3,8 +3,8 @@ name: My first githup action
 on: push
 
 jobs:
-  name: Run OS
-  runs-on: ubuntu-latest
+  hello_world:
+    runs-on: ubuntu-latest
 
   strategy:
     matrix:
