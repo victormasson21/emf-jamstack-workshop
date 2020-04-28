@@ -6,16 +6,16 @@ jobs:
   name: Run OS
   runs-on: ubuntu-latest
 
-  strategy: 
+  strategy:
     matrix:
       node-version: [10.x]
 
   steps:
     - name: Checkout
-    uses: actions/checkout@v1
+      uses: actions/checkout@v1
 
     - name: Instal Dependencies
-    run: npm install
+      run: npm install
 
     - name: Run a one-line hello world script
-    run: echo Hello World
+      run: echo Hello World
